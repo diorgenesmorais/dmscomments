@@ -1,6 +1,6 @@
 [submodule "comment-service"]
 	path = comment-service
-	url = git@github.com:diorgenesmorais/comment-service.git
+	url = git@github-personal:diorgenesmorais/comment-service.git
 [submodule "moderation-service"]
 	path = moderation-service
-	url = git@github.com:diorgenesmorais/moderation-service.git
+	url = git@github-personal:diorgenesmorais/moderation-service.git
